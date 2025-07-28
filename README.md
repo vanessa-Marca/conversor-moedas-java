@@ -36,5 +36,8 @@ Este projeto tem como objetivo desenvolver um conversor de moedas que interage c
 
 ---
 
-## 🗂 Estrutura de Pastas
+## 📧 Contato
+Vanessa Marca Manrriquez
+🔗 LinkedIn
+📧 Email: vanessamanrriquez263@gmail.com
 
